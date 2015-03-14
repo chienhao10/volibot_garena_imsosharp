@@ -16,6 +16,7 @@ using LoLLauncher.RiotObjects.Platform.Game;
 using LoLLauncher.RiotObjects.Platform.Game.Message;
 using LoLLauncher.RiotObjects.Platform.Matchmaking;
 using LoLLauncher.RiotObjects.Platform.Messaging;
++using RitoBot;
 
 namespace LoLLauncher
 {
